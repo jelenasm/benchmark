@@ -134,7 +134,8 @@ dmypy.json
 *~
 
 # Data
-output/
+/output/
+!/output/.gitkeep
 communities_infomap/
 input_communities/
 posterior_network_infomap/
